@@ -9,6 +9,7 @@
 - [Line & Pie Chart](#line-&-pie-chart)
 - [Tree Map](#tree-map)
 - [IF & IFS Conditions](#if-&-ifs-conditions)
+- [AND & OR Functions](#and-&-or-functions)
 - 
 - 
 
@@ -44,4 +45,13 @@
 ### IF & IFS Condition
 ![](/assets/images/IfCondition.png)
 ![](/assets/images/IfsCondition.png)
+
+---
+
+### AND & OR Functions
+![](/assets/images/AndFunction.png)
+![](/assets/images/OrFunction.png)
+
+---
+
 
