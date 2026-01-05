@@ -41,5 +41,5 @@
 ---
 
 ### IF Condition
-![](/assets/images/ifcondition.png)
+![](/assets/images/IfCondition.png)
 
