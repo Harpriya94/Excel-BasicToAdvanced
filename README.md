@@ -15,6 +15,8 @@
 ### Data Formatting
 ![](/assets/images/DataFormatting.png)
 
+![](/assets/images/DataFormatting2.png)
+
 ---
 
 ### Formulas & Functions
