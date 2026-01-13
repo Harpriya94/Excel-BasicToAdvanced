@@ -54,7 +54,7 @@
 ---
 
 ### Text Functions
-Showcasing UPPER(), LOWER(), PROPER(). TRIM(), LEFT(), RIGHT(). MID(), FIND() and LEN() functions
+Showcasing UPPER, LOWER, PROPER, TRIM, LEFT, RIGHT, MID, FIND and LEN functions.
 
 ![](/assets/images/TextFunctionFormulas.png)
 ![](/assets/images/TextFunctionResult.png)
