@@ -10,7 +10,7 @@
 - [Tree Map](#tree-map)
 - [IF & IFS Conditions](#if-&-ifs-conditions)
 - [AND & OR Functions](#and-&-or-functions)
-- 
+- [Text Functions](#text-funtions)
 
 ---
 
@@ -53,4 +53,8 @@
 
 ---
 
+### Text Functions
+Showcasing UPPER(), LOWER(), PROPER(). TRIM(), LEFT(), RIGHT(). MID(), FIND() and LEN() functions
 
+![](/assets/images/TextFunctionFormulas.png)
+![](/assets/images/TextFunctionResult.png)
