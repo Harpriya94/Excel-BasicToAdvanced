@@ -118,8 +118,26 @@ Showcasing how to setup data validation settings, input messages, error alerts a
 
 ---
 
+## VLOOKUP HLOOKUP
+
+![](/assets/images/vlookup1.png)
+--
+![](/assets/images/vlookup2.png)
+--
+![](/assets/images/vlookupHlookup1.png)
+--
+![](/assets/images/vlookupHlookup2.png)
+--
+![](/assets/images/vlookupHlookup3.png)
+--
+![](/assets/images/vlookupHlookup5.png)
+--
+![](/assets/images/vlookupHlookup6.png)
+--
+![](/assets/images/vlookupHlookup7.png)
 
 
+---
 
 
 
