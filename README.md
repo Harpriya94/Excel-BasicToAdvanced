@@ -139,8 +139,17 @@ Showcasing how to setup data validation settings, input messages, error alerts a
 
 ---
 
+## XLOOKUP
 
+![](/assets/images/xlookup1.png)
+--
+![](/assets/images/xlookup2.png)
+--
+![](/assets/images/xlookup3.png)
+--
+![](/assets/images/NestedXlookup.gif)
 
+---
 
 
 
