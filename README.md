@@ -196,6 +196,61 @@ Loading data from SQL server and applying LEFT JOIN using power query to merge d
 
 ---
 
+## Power Pivot
+
+![](/assets/images/PowerPivot1.png)
+--
+![](/assets/images/PowerPivot2.png)
+--
+![](/assets/images/PowerPivot3.png)
+--
+![](/assets/images/PowerPivot4.png)
+--
+![](/assets/images/PowerPivot5.png)
+--
+![](/assets/images/PowerPivot6.png)
+--
+![](/assets/images/PowerPivot7.png)
+--
+![](/assets/images/PowerPivot8.png)
+--
+![](/assets/images/PowerPivot9.png)
+--
+![](/assets/images/PowerPivot10.png)
+--
+![](/assets/images/PowerPivot12.png)
+--
+![](/assets/images/PowerPivot13.png)
+--
+![](/assets/images/PowerPivot14.png)
+--
+![](/assets/images/PowerPivot15.png)
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
